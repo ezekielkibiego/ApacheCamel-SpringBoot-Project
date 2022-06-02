@@ -10,7 +10,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 
-//@Component
+@Component
 public class TimerRoute extends RouteBuilder {
 
     @Autowired
