@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a82f332c-24cc-4ef5-bc32-2f1a82d54458" name="Changes" comment="" />
+    <list default="true" id="363fcbea-dffd-4d63-946a-25547a4247e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/camelProject/camelProject/src/main/java/com/kibiego/camelProject/route/MyFileRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/camelProject/camelProject/src/main/java/com/kibiego/camelProject/route/MyFileRouter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,129 +15,123 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
-        <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="283ePFvBomJTVNHzVpltTrHGDEl" />
+  <component name="ProjectId" id="2A1F8xmKr7TCFVrYiNQfKoms3rq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/EzekielKibiego/IdeaProjects/ezekiel",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.idesettings.emmet"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="DB" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\EzekielKibiego\ApacheCamel-SpringBoot-Project\files\Tz" />
+      <recent name="C:\Users\EzekielKibiego\ApacheCamel-SpringBoot-Project\files\input" />
+      <recent name="C:\Users\EzekielKibiego\ApacheCamel-SpringBoot-Project" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\EzekielKibiego\IdeaProjects\ezekiel" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveMembersDialog.RECENTS_KEY">
-      <recent name="DB.DepositToDB" />
-    </key>
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="DB" />
-      <recent name="" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kibiego.camelProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DB.BankAccount">
-    <configuration name="BD.BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BD.BankAccount" />
-      <module name="ezekiel" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BankAccounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BankAccounts" />
-      <module name="ezekiel" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DB.BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DB.BankAccount" />
-      <module name="ezekiel" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DB.DepositToDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DB.DepositToDB" />
-      <module name="ezekiel" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ezekiel" />
+  <component name="RunManager" selected="Application.com.kibiego.camelProject.CamelProjectApplication">
+    <configuration name="CamelProject2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kibiego.camelProject2.CamelProject2Application" />
+      <module name="camelProject-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DB.*" />
+          <option name="PATTERN" value="com.kibiego.camelProject.route.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DB" />
-      <option name="MAIN_CLASS_NAME" value="DB.BankAccountTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.kibiego.camelProject.CamelProjectApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kibiego.camelProject.CamelProjectApplication" />
+      <module name="camelProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kibiego.camelProject.route.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="camelProject-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="camelProject-2" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DB.BankAccount" />
-        <item itemvalue="JUnit.BankAccountTest" />
-        <item itemvalue="Application.BD.BankAccount" />
-        <item itemvalue="Application.BankAccounts" />
-        <item itemvalue="Application.DB.DepositToDB" />
+        <item itemvalue="Application.com.kibiego.camelProject.CamelProjectApplication" />
+        <item itemvalue="Application.com.kibiego.camelProject2.CamelProject2Application" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a82f332c-24cc-4ef5-bc32-2f1a82d54458" name="Changes" comment="" />
-      <created>1650449672230</created>
+      <changelist id="363fcbea-dffd-4d63-946a-25547a4247e4" name="Changes" comment="" />
+      <created>1654169028867</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650449672230</updated>
+      <updated>1654169028867</updated>
     </task>
     <servers />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ezekiel$BankAccountTest.ic" NAME="BankAccountTest Coverage Results" MODIFIED="1652381680987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>DB.*</FILTER>
-    </SUITE>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/camelProject/camelProject-2/src/main/java/com/kibiego/camelProject2/CamelProject2Application.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
