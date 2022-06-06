@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="363fcbea-dffd-4d63-946a-25547a4247e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/camelProject/camelProject/src/main/java/com/kibiego/camelProject/route/MyFileRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/camelProject/camelProject/src/main/java/com/kibiego/camelProject/route/MyFileRouter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/camelProject/camelProject/src/main/java/com/kibiego/camelProject/route/WhenMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camelProject/camelProject/src/main/java/com/kibiego/camelProject/route/SplitRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/camelProject/camelProject/src/main/java/com/kibiego/camelProject/route/SplitRouter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +39,21 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/EzekielKibiego/ApacheCamel-SpringBoot-Project/files/Tz"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\EzekielKibiego\ApacheCamel-SpringBoot-Project\files\Tz" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\EzekielKibiego\ApacheCamel-SpringBoot-Project\files\Tz" />
       <recent name="C:\Users\EzekielKibiego\ApacheCamel-SpringBoot-Project\files\input" />
       <recent name="C:\Users\EzekielKibiego\ApacheCamel-SpringBoot-Project" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.kibiego.camelProject.route" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.kibiego.camelProject" />
@@ -133,5 +141,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
   </component>
 </project>

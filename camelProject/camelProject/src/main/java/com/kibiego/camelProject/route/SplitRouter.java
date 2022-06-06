@@ -5,15 +5,15 @@ import org.springframework.stereotype.Component;
 
 
 
-@Component
+//@Component
 public class SplitRouter extends RouteBuilder {
 
     @Override
     public void configure() throws Exception {
-       from ("file:files/Tz?noop=true&idempotent=true&shuffle=true")
+       from ("file:files/Tz?noop=true&idempotent=true")
                 .split().xpath("//xml/data/customer/name")
                 .log("${body}")
-                .to("file:files/Kenya?idempotent=true&fileName=customerName.txt");
+                .to("file:files/Kenya?fileName=customerName.txt");
 
     }
 }
