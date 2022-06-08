@@ -7,11 +7,11 @@ import org.springframework.stereotype.Component;
 public class WhenMethod extends RouteBuilder {
     @Override
     public void configure() throws Exception {
-        from("file:files/Tz")
+        from("file:files/Tz?noop=true")
                 .choice()
-                .when(simple("${header.Tz} == '.json'"))
+                .when(simple("${file:ext} == 'json'"))
                 .to("file:files/Kenya")
-                .when(simple("${header.Tz} == '.xml'"))
+                .when(simple("${file:ext} == 'xml'"))
                 .to("file:files/Tanzania")
                 .otherwise()
                 .to("file:files/Tz");

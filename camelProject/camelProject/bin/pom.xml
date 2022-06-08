@@ -9,25 +9,14 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kibiego</groupId>
-	<artifactId>camelProject-2</artifactId>
+	<artifactId>camelProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>camelProject-2</name>
+	<name>camelProject</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>18</java.version>
 		<camel.version>3.17.0</camel.version>
 	</properties>
-<!--	<dependencyManagement>-->
-<!--		<dependencies>-->
-<!--			<dependency>-->
-<!--				<version>3.17.0</version>-->
-<!--				<scope>import</scope>-->
-<!--				<type>pom</type>-->
-<!--				<groupId>org.apache.camel</groupId>-->
-<!--				<artifactId>${camel.version}</artifactId>-->
-<!--			</dependency>-->
-<!--		</dependencies>-->
-<!--	</dependencyManagement>-->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -42,18 +31,6 @@
 			<artifactId>camel-spring-boot-starter</artifactId>
 			<version>${camel.version}</version>
 		</dependency>
-		<dependency>
-			<groupId>org.apache.camel.springboot</groupId>
-			<artifactId>camel-activemq-starter</artifactId>
-			<version>${camel.version}</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.camel.springboot</groupId>
-			<artifactId>camel-http-starter</artifactId>
-			<version>3.17.0</version>
-		</dependency>
-
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
