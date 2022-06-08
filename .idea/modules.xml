@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/ApacheCamel-SpringBoot-Project.iml" filepath="$PROJECT_DIR$/.idea/ApacheCamel-SpringBoot-Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/camelProject/camelProject/camelProject.iml" filepath="$PROJECT_DIR$/camelProject/camelProject/camelProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/camelProject/camelProject-2/camelProject-2.iml" filepath="$PROJECT_DIR$/camelProject/camelProject-2/camelProject-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IdeaProjects/rest/rest.iml" filepath="$PROJECT_DIR$/../IdeaProjects/rest/rest.iml" />
     </modules>
   </component>
 </project>
